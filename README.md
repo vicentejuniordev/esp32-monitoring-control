@@ -19,3 +19,21 @@ múltiplos periféricos (como displays e sensores) utilizando apenas dois pinos 
 microcontrolador (SDA e SCL).
 
 O protocolo I2C é vantajoso em projetos com múltiplos periféricos porque permite a comunicação entre o microcontrolador e vários dispositivos usando apenas dois pinos: SDA (Serial Data Line) e SCL (Serial Clock Line). Isso simplifica o design do circuito, reduz a quantidade de fios necessários e facilita a conexão de múltiplos sensores e displays sem a necessidade de pinos adicionais para cada dispositivo. Além disso, o I2C suporta endereçamento, permitindo que cada dispositivo tenha um endereço único, o que facilita a comunicação e o controle de vários periféricos em um sistema.
+
+## Resolução da Atividade Prática 🕹️
+
+A atividade prática consistiu em criar um sistema de monitoramento e controle utilizando a placa Esp32. O sistema foi projetado para ler dados de um sensor LDR (Sensor de Luminosidade), processar esses dados e controlar um lED através da saída PWM com base na leitura do sensor.
+
+#### Ferramentas Utilizadas:
+![PlatformIO](https://img.shields.io/badge/platformio-%23000.svg?style=for-the-badge&logo=platformio&logoColor=F5822A)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Componentes Utilizados:
+- Placa Esp32
+- Sensor LDR (Sensor de Luminosidade)
+- LED
+- Resistores
+- Protoboard
+- Cabos de conexão
