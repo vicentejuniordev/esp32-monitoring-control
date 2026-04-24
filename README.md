@@ -37,3 +37,6 @@ A atividade prática consistiu em criar um sistema de monitoramento e controle u
 - Resistores
 - Protoboard
 - Cabos de conexão
+- Fonte de alimentação
+- LCD I2C 
+- Botão de controle
