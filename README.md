@@ -39,3 +39,11 @@ A atividade prática consistiu em criar um sistema de monitoramento e controle u
 - Cabos de conexão
 - LCD I2C 
 - Botão de controle
+
+#### Circuito:
+O circuito foi montado da seguinte forma:
+![imagem-circuito](img/Screenshot_2026-04-24_11-49-09.png)
+
+
+#### Autor: 
+Vicente Junior
